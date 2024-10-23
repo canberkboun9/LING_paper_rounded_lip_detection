@@ -1,5 +1,5 @@
 # Rounded Lip Detection System
-A filter based detection system using dlib library and opencv. Main purpose is to detect a rounded lip while talking.
+A filter based detection system using [dlib library](https://github.com/davisking/dlib) and opencv. Main purpose is to detect a rounded lip while talking.
 
 To use the code, you must download the pretrained model from the HuggingFace.
 
